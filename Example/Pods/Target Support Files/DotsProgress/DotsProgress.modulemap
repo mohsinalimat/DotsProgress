@@ -1,0 +1,6 @@
+framework module DotsProgress {
+  umbrella header "DotsProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

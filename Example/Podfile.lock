@@ -1,0 +1,16 @@
+PODS:
+  - DotsProgress (0.1.0)
+
+DEPENDENCIES:
+  - DotsProgress (from `../`)
+
+EXTERNAL SOURCES:
+  DotsProgress:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DotsProgress: dbe53dd75c442106b0593bb8813299a9e5dd60df
+
+PODFILE CHECKSUM: afbf8a2f7ac3ef920c67663d312211e4dd2716e1
+
+COCOAPODS: 1.2.1

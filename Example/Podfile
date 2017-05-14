@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DotsProgress_Example' do
+  pod 'DotsProgress', :path => '../'
+
+  target 'DotsProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

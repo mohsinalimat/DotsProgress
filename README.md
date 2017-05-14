@@ -1,4 +1,5 @@
 # DotsProgress
+![dots_header](https://github.com/makomori/DotsProgress/blob/master/dots_header.png "dots header")
 
 [![CI Status](http://img.shields.io/travis/makomori/DotsProgress.svg?style=flat)](https://travis-ci.org/makomori/DotsProgress)
 [![Version](https://img.shields.io/cocoapods/v/DotsProgress.svg?style=flat)](http://cocoapods.org/pods/DotsProgress)
@@ -9,13 +10,13 @@ DotsProgress is the replacement of UIActivityIndicatorView. It provides modern a
 
 ## GIFs
 ### Google color
-![gif](https://github.com/makomori/Dots/blob/master/ezgif.com-video-to-gif.gif "dots gif")
+![gif](https://github.com/makomori/DotsProgress/blob/master/dots_google.gif "dots gif")
 
 ### Pink gradient
-![gif](https://github.com/makomori/Dots/blob/master/dots_pink.gif "pink gif")
+![gif](https://github.com/makomori/DotsProgress/blob/master/dots_pink.gif "pink gif")
 
 ### Twitter color
-![gif](https://github.com/makomori/Dots/blob/master/dots_twitter.gif "twitter gif")
+![gif](https://github.com/makomori/DotsProgress/blob/master/dots_twitter.gif "twitter gif")
 
 ## Example
 
